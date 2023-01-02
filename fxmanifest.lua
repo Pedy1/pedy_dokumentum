@@ -3,7 +3,7 @@ fx_version "cerulean"
 description "4MA-ra"
 author "Pedy"
 version '1.3.0'
-update "NO update "
+update "NO update"
 repository 'https://github.com/Pedy1/pedy_dokumentum'
 
 lua54 'yes'
